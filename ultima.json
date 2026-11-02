@@ -1,9 +1,9 @@
 {
-  "versao": "1.3.0",
-  "exe": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.3.0/ProjetorLouvor.exe",
-  "sha256": "5bf49518232f5bfa211d5a065a515557123ab24bd4bddc60178121983650a62d",
-  "instalador": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.3.0/Instalar-ProjetorIDB-1.3.0.exe",
-  "instalador_sha256": "7c41e41b6f73fb45e9dca5dda1185d268ab37d856e770a416533ff6f6603b0c9",
-  "pagina": "https://github.com/barretogzb/projetor-louvor-versoes/releases/tag/v1.3.0",
-  "notas": "- Novo ícone e tela de abertura com o logo da Igreja de Deus no Brasil\n- Ministério Mundo Novo 2 na abertura, no título e no instalador\n- Logo da igreja no telão quando ele está limpo (dá para desligar em Configurações > Letra)"
+  "versao": "1.4.0",
+  "exe": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.4.0/ProjetorLouvor.exe",
+  "sha256": "87a837aac7f04cdcdf882727ac762cb01fb710bd76ee7c2b61f90f09e6422c4e",
+  "instalador": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.4.0/Instalar-ProjetorIDB-1.4.0.exe",
+  "instalador_sha256": "99727365c6597da87a749eaf86bbe0b7f12ff843fab586642c7aa5efc878ae6b",
+  "pagina": "https://github.com/barretogzb/projetor-louvor-versoes/releases/tag/v1.4.0",
+  "notas": "- Controle pelo celular: clique em Celular, abra o endereço no navegador do celular (mesmo Wi-Fi) e digite o código\n- Pelo celular dá para passar e voltar slides, abrir hinos, buscar versículos, tela preta e limpar"
 }
