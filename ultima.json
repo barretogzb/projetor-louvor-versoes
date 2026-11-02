@@ -1,9 +1,9 @@
 {
-  "versao": "1.4.0",
-  "exe": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.4.0/ProjetorLouvor.exe",
-  "sha256": "87a837aac7f04cdcdf882727ac762cb01fb710bd76ee7c2b61f90f09e6422c4e",
-  "instalador": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.4.0/Instalar-ProjetorIDB-1.4.0.exe",
-  "instalador_sha256": "99727365c6597da87a749eaf86bbe0b7f12ff843fab586642c7aa5efc878ae6b",
-  "pagina": "https://github.com/barretogzb/projetor-louvor-versoes/releases/tag/v1.4.0",
-  "notas": "- Controle pelo celular: clique em Celular, abra o endereço no navegador do celular (mesmo Wi-Fi) e digite o código\n- Pelo celular dá para passar e voltar slides, abrir hinos, buscar versículos, tela preta e limpar"
+  "versao": "1.4.1",
+  "exe": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.4.1/ProjetorLouvor.exe",
+  "sha256": "4111d0eeaff49d49b908191355ff8cfc4bd959d2380c0d65efdfe42a9f4cd343",
+  "instalador": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.4.1/Instalar-ProjetorIDB-1.4.1.exe",
+  "instalador_sha256": "f8b737e50d392744c343ae7d00442d2e88cb96a3dac603b701ad20da010e2374",
+  "pagina": "https://github.com/barretogzb/projetor-louvor-versoes/releases/tag/v1.4.1",
+  "notas": "- Aviso de versão nova numa faixa amarela no topo, com o botão Atualizar agora\n- O programa procura versão nova ao abrir e a cada 30 minutos\n- Configurações > Sobre: botão Procurar atualização agora"
 }
