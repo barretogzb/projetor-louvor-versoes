@@ -1,9 +1,9 @@
 {
-  "versao": "1.4.1",
-  "exe": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.4.1/ProjetorLouvor.exe",
-  "sha256": "4111d0eeaff49d49b908191355ff8cfc4bd959d2380c0d65efdfe42a9f4cd343",
-  "instalador": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.4.1/Instalar-ProjetorIDB-1.4.1.exe",
-  "instalador_sha256": "f8b737e50d392744c343ae7d00442d2e88cb96a3dac603b701ad20da010e2374",
-  "pagina": "https://github.com/barretogzb/projetor-louvor-versoes/releases/tag/v1.4.1",
-  "notas": "- Aviso de versão nova numa faixa amarela no topo, com o botão Atualizar agora\n- O programa procura versão nova ao abrir e a cada 30 minutos\n- Configurações > Sobre: botão Procurar atualização agora"
+  "versao": "1.5.0",
+  "exe": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.5.0/ProjetorLouvor.exe",
+  "sha256": "3daac72c6e246a07371333144c541dfaeadadbac503d522988a5ad0e067a9110",
+  "instalador": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.5.0/Instalar-ProjetorIDB-1.5.0.exe",
+  "instalador_sha256": "dd9fe63486b5b1248f05e51350e7f7b3803eb43b0cf082eab6b1bb29bf685548",
+  "pagina": "https://github.com/barretogzb/projetor-louvor-versoes/releases/tag/v1.5.0",
+  "notas": "- Modo noturno: botão no topo do programa\n- Bíblia: livros em quadradinhos com a abreviação e o nome (Gn, Êx, Mt...), separados por cores (Lei, Evangelhos, Cartas...) e depois os capítulos também em quadradinhos\n- Telão sem a barra de cima; com um monitor só, dá para arrastar e dar dois cliques para tela cheia\n- O telão não fica mais atrás da barra de tarefas do Windows"
 }
