@@ -1,0 +1,9 @@
+{
+  "versao": "1.2.0",
+  "exe": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.2.0/ProjetorLouvor.exe",
+  "sha256": "f42113e84d8851f09919e41afb76f33ac6752ad8b607267ff32396a102f5910e",
+  "instalador": "https://github.com/barretogzb/projetor-louvor-versoes/releases/download/v1.2.0/Instalar-ProjetorIDB-1.2.0.exe",
+  "instalador_sha256": "3ec6b41e55ea9a28fe923378bd0dc2fafcc54fe135520517a5ea87334ddcbac3",
+  "pagina": "https://github.com/barretogzb/projetor-louvor-versoes/releases/tag/v1.2.0",
+  "notas": "- Agora tem instalador (não pede senha de administrador) e atalho no Menu Iniciar e na Área de Trabalho\n- Tela de abertura enquanto o programa carrega\n- Novo nome e visual: Projetor IDB - Igreja de Deus no Brasil\n- Palavras de Jesus destacadas em vermelho, duas versões da Bíblia (Bíblia Livre e Almeida) e fundos para louvor, Bíblia e avisos\n- Buscar letra na internet: copie a letra e clique em Colar e organizar"
+}
